@@ -14,6 +14,15 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adhilek19/leetcode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/adhilek19/leetcode/tree/master/2235-add-two-integers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adhilek19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
