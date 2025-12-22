@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
+| [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adhilek19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -25,4 +26,5 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
