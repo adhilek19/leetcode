@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/adhilek19/leetcode/tree/master/1952-three-divisors) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
