@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhilek19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adhilek19/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adhilek19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
