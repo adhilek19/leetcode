@@ -38,6 +38,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
+| [3110-score-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
