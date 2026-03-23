@@ -39,6 +39,7 @@
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [3110-score-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/adhilek19/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/adhilek19/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
