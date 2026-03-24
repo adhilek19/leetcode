@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/adhilek19/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 | [3467-transform-array-by-parity](https://github.com/adhilek19/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/adhilek19/leetcode/tree/master/3467-transform-array-by-parity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/adhilek19/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
