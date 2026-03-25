@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/adhilek19/leetcode/tree/master/0771-jewels-and-stones) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -39,6 +40,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
+| [0771-jewels-and-stones](https://github.com/adhilek19/leetcode/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/adhilek19/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
