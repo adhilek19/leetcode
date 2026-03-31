@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adhilek19/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
@@ -38,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
