@@ -36,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adhilek19/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
