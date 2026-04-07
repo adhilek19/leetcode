@@ -132,5 +132,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/adhilek19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/adhilek19/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
