@@ -40,6 +40,7 @@
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/adhilek19/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/adhilek19/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/adhilek19/leetcode/tree/master/2235-add-two-integers) |
