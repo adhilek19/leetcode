@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/adhilek19/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/adhilek19/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adhilek19/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -93,6 +95,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/adhilek19/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/adhilek19/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/adhilek19/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
