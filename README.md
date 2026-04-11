@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/adhilek19/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/adhilek19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhilek19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adhilek19/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/adhilek19/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/adhilek19/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/adhilek19/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
