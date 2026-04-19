@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/adhilek19/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/adhilek19/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/adhilek19/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
