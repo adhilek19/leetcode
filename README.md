@@ -38,6 +38,7 @@
 | [0007-reverse-integer](https://github.com/adhilek19/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adhilek19/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/adhilek19/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adhilek19/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/adhilek19/leetcode/tree/master/0258-add-digits) |
@@ -152,6 +153,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adhilek19/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adhilek19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
 ## Linked List
