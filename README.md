@@ -45,6 +45,7 @@
 | [0263-ugly-number](https://github.com/adhilek19/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/adhilek19/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/adhilek19/leetcode/tree/master/0492-construct-the-rectangle) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/adhilek19/leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0050-powx-n](https://github.com/adhilek19/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adhilek19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/adhilek19/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/adhilek19/leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
