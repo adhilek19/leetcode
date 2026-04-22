@@ -15,6 +15,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/adhilek19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adhilek19/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adhilek19/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adhilek19/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
@@ -31,6 +32,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adhilek19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/adhilek19/leetcode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -49,6 +51,7 @@
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/adhilek19/leetcode/tree/master/0492-construct-the-rectangle) |
+| [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/adhilek19/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/adhilek19/leetcode/tree/master/2235-add-two-integers) |
@@ -148,6 +151,7 @@
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/adhilek19/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
