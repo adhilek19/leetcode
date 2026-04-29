@@ -58,6 +58,7 @@
 | [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adhilek19/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/adhilek19/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/adhilek19/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/adhilek19/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -81,6 +82,7 @@
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/adhilek19/leetcode/tree/master/0771-jewels-and-stones) |
+| [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/adhilek19/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -182,4 +184,5 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/adhilek19/leetcode/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
