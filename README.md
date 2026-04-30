@@ -17,6 +17,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/adhilek19/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/adhilek19/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/adhilek19/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adhilek19/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
@@ -92,6 +93,7 @@
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/adhilek19/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/adhilek19/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Binary Search
