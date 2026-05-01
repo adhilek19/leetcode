@@ -22,6 +22,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adhilek19/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adhilek19/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/adhilek19/leetcode/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/adhilek19/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adhilek19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/adhilek19/leetcode/tree/master/3668-restore-finishing-order) |
@@ -84,6 +85,7 @@
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/adhilek19/leetcode/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/adhilek19/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/adhilek19/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
