@@ -23,6 +23,7 @@
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adhilek19/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/adhilek19/leetcode/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/adhilek19/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adhilek19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/adhilek19/leetcode/tree/master/3668-restore-finishing-order) |
@@ -98,6 +99,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/adhilek19/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/adhilek19/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Binary Search
@@ -122,6 +124,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adhilek19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adhilek19/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/adhilek19/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
 |  |
@@ -191,4 +194,8 @@
 | ------- |
 | [1323-maximum-69-number](https://github.com/adhilek19/leetcode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
