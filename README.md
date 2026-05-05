@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/adhilek19/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adhilek19/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/adhilek19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhilek19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/adhilek19/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adhilek19/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/adhilek19/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adhilek19/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adhilek19/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/adhilek19/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
