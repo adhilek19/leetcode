@@ -63,6 +63,7 @@
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/adhilek19/leetcode/tree/master/0492-construct-the-rectangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adhilek19/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/adhilek19/leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/adhilek19/leetcode/tree/master/1688-count-of-matches-in-tournament) |
