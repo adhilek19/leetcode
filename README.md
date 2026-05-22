@@ -23,6 +23,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adhilek19/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adhilek19/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/adhilek19/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adhilek19/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/adhilek19/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adhilek19/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/adhilek19/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Recursion
 |  |
 | ------- |
