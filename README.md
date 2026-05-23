@@ -72,6 +72,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/adhilek19/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/adhilek19/leetcode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/adhilek19/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/adhilek19/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/adhilek19/leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/adhilek19/leetcode/tree/master/2469-convert-the-temperature) |
@@ -160,6 +161,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adhilek19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adhilek19/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/adhilek19/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/adhilek19/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adhilek19/leetcode/tree/master/0048-rotate-image) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/adhilek19/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
