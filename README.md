@@ -47,6 +47,7 @@
 | [1512-number-of-good-pairs](https://github.com/adhilek19/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/adhilek19/leetcode/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/adhilek19/leetcode/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/adhilek19/leetcode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/adhilek19/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/adhilek19/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adhilek19/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/adhilek19/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
