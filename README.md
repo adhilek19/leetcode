@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/adhilek19/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/adhilek19/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adhilek19/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adhilek19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +101,7 @@
 | [0125-valid-palindrome](https://github.com/adhilek19/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adhilek19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/adhilek19/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/adhilek19/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/adhilek19/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/adhilek19/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/adhilek19/leetcode/tree/master/0504-base-7) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/adhilek19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/adhilek19/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adhilek19/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adhilek19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhilek19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adhilek19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
