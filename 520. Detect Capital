@@ -1,0 +1,15 @@
+/**
+ * @param {string} word
+ * @return {boolean}
+ */
+var detectCapitalUse = function(word) {
+    if (word === word.toUpperCase())return true
+    if(word === word.toLowerCase())return true 
+    const rep=word.slice(1)
+    const first=word[0]
+    if(first === first.toUpperCase() && rep === rep.toLowerCase()){
+        return true 
+    }
+
+    return false
+};
