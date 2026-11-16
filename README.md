@@ -108,6 +108,7 @@
 | [0771-jewels-and-stones](https://github.com/adhilek19/leetcode/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/adhilek19/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adhilek19/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adhilek19/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/adhilek19/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -122,6 +123,7 @@
 | [1920-build-array-from-permutation](https://github.com/adhilek19/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adhilek19/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/adhilek19/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adhilek19/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/adhilek19/leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/adhilek19/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/adhilek19/leetcode/tree/master/3701-compute-alternating-sum) |
